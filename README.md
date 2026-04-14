@@ -27,7 +27,6 @@ This analysis answers the following questions:
 * Pandas
 * CSV data processing
 * Power BI (dashboard visualization)
-* Sports analytics methodology
 
 ---
 
